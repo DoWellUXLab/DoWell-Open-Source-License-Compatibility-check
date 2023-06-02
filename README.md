@@ -1,12 +1,12 @@
-# Legalzard API Documentation
+# Open Source License Compatibility check by DoWell
 
-The LegalZard API provides access to a wide range of legal information and resources. It allows developers to retrieve information about software licenses, legal documents, legal entities, check license compatibility, and more. The API aims to facilitate the integration of legal information into applications, websites, or other software systems.
+The Open Source License Compatibility check API provides access to a wide range of legal information and resources. It allows developers to retrieve information about software licenses, legal documents, legal entities, check license compatibility, and more. The API aims to facilitate the integration of legal information into applications, websites, or other software systems.
 
-For detailed information about the LegalZard API, please refer to the documentation available at [LegalZard API Documentation](https://documenter.getpostman.com/view/22392526/2s93mBvyQx)
+For detailed information about the Open Source License Compatibility check API, please refer to the documentation available at [Documentation](https://documenter.getpostman.com/view/22392526/2s93mBvyQx)
 
 ## Main Functionalities/Endpoints
 
-The Legalzard API offers the following key features:
+The Open Source License Compatibility check API offers the following key features:
 
 - **Retrieve Licence Information**: The legalzard API allows users to have a look at all the details that are relevant to a given Software license.
 - **Create a Licence**: This involves adding information about a license to the database.
@@ -17,7 +17,7 @@ The Legalzard API offers the following key features:
 
 ## Responses 
 
-The results of the Legalzard API are grouped into two groups:
+The results of the Open Source License Compatibility check API are grouped into two groups:
 
 - **Compatibility Results**: This is basically a percentage estimate of how compatible Software licenses are. This is mainly to guide software developers before they can leverage the different softwares/packages that are licenses under different Software Licenses. A detailed explanation also follows on why the percentage is high or low. Generally, 50% works as the threshold meaning that a percentage higher than 50% is recommended while a percentage higher than 70% is highly recommended.
 
